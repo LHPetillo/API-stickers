@@ -1,5 +1,5 @@
 Alura Sticker
-🪧 Vitrine.Dev	L_petillo
+🪧 Vitrine.Dev	LHPetillo
 ✨ Nome	Alura Sticker
 🏷️ Tecnologias	Java, Spring, MongoDB, Heroku, Git
 🚀 URL	https://lpetillo-linguagens-app.herokuapp.com/linguagens
